@@ -106,3 +106,54 @@ a {
     font-style: normal;
     font-size: 25px;
 }
+
+.banner img {
+    border-radius: 170px;
+}
+
+.pesquisas img{
+    width: 25%;
+    border-radius: 15px;
+}
+
+.pesquisas h2 {
+    margin-right: 50px;
+}
+.pesquisas h3 {
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+  font-style: normal;
+ 
+}
+.pesquisas h2 {
+    margin-right: 50px;
+}
+
+
+.links h1 {
+    font-size: 1.5em;
+    margin-top: 0;
+}
+.links  {
+    list-style: none;
+    padding: 0;
+}
+
+.links  li {
+    margin: 10px 0;
+}
+
+.links  ul li a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+}
+
+.links li a:hover {
+    background-color: #575757;
+}
+
+
+
+
