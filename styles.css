@@ -114,6 +114,8 @@ a {
 .pesquisas img{
     width: 25%;
     border-radius: 15px;
+    margin: 15px;
+    
 }
 
 .pesquisas h2 {
@@ -129,30 +131,24 @@ a {
     margin-right: 50px;
 }
 
-.links ul li a {
+.links h1 a {
     text-decoration: none;
+    color: black;
     
 }
 
-.links ul {
+.links h1 {
     list-style: none;
     padding: 0;
 }
 
-.links ul li {
-    margin: 10px 0;
+
+.links h1 a:hover {
+    background-color: #f1f502;
+    border-radius: 15px;
 }
 
-.links  li  {
-    color: #fff;
-    text-decoration: none;
-    display: block;
-    padding: 10px;
+.videos {
+    border-radius: 25px;
 }
-
-.links ul li a:hover {
-    background-color: #575757;
-}
-
-
 
