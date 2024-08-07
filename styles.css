@@ -9,7 +9,7 @@ body {
     background-position: center; /* Centraliza a imagem */
     background-attachment: fixed; /* Mantém a imagem fixa ao rolar a página */
 }
-ba
+
 .container {
     display: flex;
     width: 100%;
@@ -107,6 +107,13 @@ a {
     font-size: 25px;
 }
 
+p  {
+    font-size: 25px;
+}
+h3  {
+    font-size: 25px;
+}
+
 .banner img {
     border-radius: 170px;
 }
@@ -117,6 +124,7 @@ a {
     margin: 15px;
     
 }
+
 
 .pesquisas h2 {
     margin-right: 50px;
@@ -150,5 +158,8 @@ a {
 
 .videos {
     border-radius: 25px;
+    margin: 25px;
 }
-
+.videos:hover {
+    background-color: black;
+}
